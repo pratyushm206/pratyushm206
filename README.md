@@ -18,19 +18,22 @@ Full-stack calorie and nutrition tracking app. React frontend, Node.js/Express b
 
 ## Tech Stack
 
-**Backend:** Node.js, Express.js, REST APIs, JWT
-**Databases:** MongoDB, Mongoose, PostgreSQL, Prisma, MySQL
-**AI/LLM:** Google Gemini API, Prompt Engineering
-**Languages:** Java, JavaScript, Python, C
-**Frontend:** React, HTML, CSS, Tailwind CSS
-**Cloud/Systems:** AWS Cloud Foundations, Linux
-**Core CS:** DSA, OOP, DBMS, Computer Networks
+- **Backend:** Node.js, Express.js, REST APIs, JWT
+- **Databases:** MongoDB, Mongoose, PostgreSQL, Prisma, MySQL
+- **AI/LLM:** Google Gemini API, Prompt Engineering
+- **Languages:** Java, JavaScript, Python, C
+- **Frontend:** React, HTML, CSS, Tailwind CSS
+- **Cloud/Systems:** AWS Cloud Foundations, Linux
+- **Core CS:** DSA, OOP, DBMS, Computer Networks
 
 ## Certifications
+
 AWS Academy Cloud Foundations · CCNA (Cisco) · Palo Alto Cybersecurity/Network Security Fundamentals · Red Hat Linux System Administration I & II
 
 ## Connect
+
 [LinkedIn](https://www.linkedin.com/in/pratyushm206/) · [LeetCode](https://leetcode.com/u/pratyushm206/) · pratyushm206@gmail.com
 
 ---
-📌 300+ DSA problems solved on LeetCode & HackerRank | Open to full-time, internship, and contract backend/full-stack roles
+
+📌 300+ DSA problems solved on LeetCode & HackerRank | Open to full-time, internship, part-time, and contract backend/full-stack roles
