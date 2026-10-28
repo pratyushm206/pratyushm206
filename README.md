@@ -52,7 +52,7 @@ I build backend services with clear ownership, authorization, and reliability bo
 ### NutriTrack
 **AI nutrition & fitness tracking for everyday meals.**
 
-<a href="https://nutri-track-sage.vercel.app/"><img src="./assets/nutritrack.png" alt="NutriTrack logo and tagline" width="100%" /></a>
+<a href="https://nutri-track-sage.vercel.app/"><img src="./nutritrack.png" alt="NutriTrack logo and tagline" width="100%" /></a>
 
 - Recognizes foods from text or photos through the Gemini API to speed up meal logging.
 - Models users, meals, and nutrition logs in PostgreSQL with Prisma.
@@ -69,7 +69,7 @@ I build backend services with clear ownership, authorization, and reliability bo
 ### AI Resume Analyzer
 **Analyze. Improve. Succeed. Your career companion.**
 
-<a href="https://ai-resume-analyzer-pratyushm206.streamlit.app/"><img src="./assets/ai-resume-analyzer.png" alt="AI Resume Analyzer logo" width="100%" /></a>
+<a href="https://ai-resume-analyzer-pratyushm206.streamlit.app/"><img src="./ai-resume-analyzer.png" alt="AI Resume Analyzer logo" width="100%" /></a>
 
 - Matches resumes to job descriptions semantically with Sentence Transformers.
 - Scores resume sections and highlights skill gaps to focus revisions.
