@@ -32,12 +32,8 @@ I build backend services with clear ownership, authorization, and reliability bo
 
 ## `~/projects`
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### PrepSense
-AI-powered mock interviews and placement readiness.
+**AI-powered mock interviews and placement readiness.**
 
 <a href="https://prepsense-mhnn.onrender.com/"><img src="https://prepsense-mhnn.onrender.com/og-image.png" alt="PrepSense interview preparation platform preview" width="100%" /></a>
 
@@ -51,13 +47,12 @@ AI-powered mock interviews and placement readiness.
 
 [Live demo →](https://prepsense-mhnn.onrender.com/) · [Source →](https://github.com/pratyushm206/PrepSense)
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
 ### NutriTrack
-AI-assisted calorie and nutrition tracking.
+**AI nutrition & fitness tracking for everyday meals.**
 
-<a href="https://nutri-track-sage.vercel.app/"><img src="https://image.thum.io/get/width/1200/crop/760/https://nutri-track-sage.vercel.app/" alt="NutriTrack nutrition tracking application preview" width="100%" /></a>
+<a href="https://nutri-track-sage.vercel.app/"><img src="./assets/nutritrack.png" alt="NutriTrack logo and tagline" width="100%" /></a>
 
 - Recognizes foods from text or photos through the Gemini API to speed up meal logging.
 - Models users, meals, and nutrition logs in PostgreSQL with Prisma.
@@ -69,15 +64,12 @@ AI-assisted calorie and nutrition tracking.
 
 [Live demo →](https://nutri-track-sage.vercel.app/) · [Source →](https://github.com/pratyushm206/NutriTrack)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<br/>
 
 ### AI Resume Analyzer
-Resume and job description matching with Gemini.
+**Analyze. Improve. Succeed. Your career companion.**
 
-<a href="https://ai-resume-analyzer-pratyushm206.streamlit.app/"><img src="./assets/ai-resume-analyzer.png" alt="AI Resume Analyzer matching and scoring screen" width="100%" /></a>
+<a href="https://ai-resume-analyzer-pratyushm206.streamlit.app/"><img src="./assets/ai-resume-analyzer.png" alt="AI Resume Analyzer logo" width="100%" /></a>
 
 - Matches resumes to job descriptions semantically with Sentence Transformers.
 - Scores resume sections and highlights skill gaps to focus revisions.
@@ -87,27 +79,6 @@ Resume and job description matching with Gemini.
 `Python` `Streamlit` `Sentence Transformers` `Gemini API` `ReportLab`
 
 [Live demo →](https://ai-resume-analyzer-pratyushm206.streamlit.app/) · [Source →](https://github.com/pratyushm206/AI-Resume-Analyzer)
-
-</td>
-<td width="50%" valign="top">
-
-### Portfolio
-Terminal-themed portfolio for projects and contact details.
-
-<a href="https://portfolio-tau-weld-1pgtqf121q.vercel.app/"><img src="https://image.thum.io/get/width/1200/crop/760/https://portfolio-tau-weld-1pgtqf121q.vercel.app/" alt="Pratyush Mishra terminal-themed portfolio preview" width="100%" /></a>
-
-- Presents work in a terminal-inspired interface with JetBrains Mono typography.
-- Includes a lightbox gallery and animated project tiles for browsing work.
-- Provides a resume download and direct contact paths.
-- Deployed on Vercel for public access.
-
-`React` `Tailwind CSS` `Vercel`
-
-[Live site →](https://portfolio-tau-weld-1pgtqf121q.vercel.app/) · [Source →](https://github.com/pratyushm206/portfolio)
-
-</td>
-</tr>
-</table>
 
 ## `~/stack`
 
